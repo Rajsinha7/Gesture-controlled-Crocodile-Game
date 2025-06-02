@@ -10,9 +10,9 @@ Pause & Restart	Press 'P' to pause, 'R' to restart after Game Over.
 
 
 🧱 Tech Stack:::
-Component	Library/Tool	Purpose
-Language	Python	Main programming language
-Graphics/Game	Pygame	For rendering graphics and game loop
-Camera Input	OpenCV (cv2)	Access webcam feed
-Hand Tracking	MediaPipe Hands	Detect finger position in real-time
+Component:	Library/Tool	Purpose
+Language:	Python	Main programming language
+Graphics/Game:	Pygame	For rendering graphics and game loop
+Camera Input:	OpenCV (cv2)	Access webcam feed
+Hand Tracking:	MediaPipe Hands	Detect finger position in real-time
 Threading	Python threading	Run camera detection in parallel to game
